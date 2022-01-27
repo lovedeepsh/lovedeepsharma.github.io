@@ -3,11 +3,11 @@ logo: "/profile.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
  DevOps Engineer
   <br><br>
-  <a href="mailto:sharmalovedeep93@gmail.com">sharmalovedeep93@gmail.com </a>
+  <a href="Email: sharmalovedeep93@gmail.com"></a>
   <br>
-  <a href="https://www.linkedin.com/in/lovedeep-sharma-715ba5179/">LinkedIn Profile</a>
+  <a href="LinkedIn Profile: https://www.linkedin.com/in/lovedeep-sharma-715ba5179/"></a>
   <br>
-  <a href="https://github.com/lovedeepsh">Gihub</a> 
+  <a href="Gihub: https://github.com/lovedeepsh"></a> 
   <br>
-  <a href="https://bit.ly/35OrbGz">Stack Overflow</a>
+  <a href="Stack Overflow: https://bit.ly/35OrbGz"></a>
 theme: jekyll-theme-minimal

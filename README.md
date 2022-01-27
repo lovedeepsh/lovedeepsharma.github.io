@@ -123,13 +123,3 @@ To troubleshoot client issues on production by reducing network latency issues b
 **Certificate Of Appreciation - Callsgin Ltd**
 September 21, 2021
 In order to deploy multiple environments within SLA's and reducing the time period of deployment from 1 month to 3 days by automating stuff.
-
----
-
-### Personal Details
-
-**Nationality**   : Indian
-
-**LinkedIn**      : https://linkedin.com/in/lovedeep-sharma-715ba5179
-
-**StackOverflow** : https://bit.ly/35OrbGz

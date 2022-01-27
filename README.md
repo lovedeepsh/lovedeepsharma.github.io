@@ -80,11 +80,9 @@ team.
 
 ### **Licenses & Certifications**
 
-- Certified Kubernetes Administrator - CNCF
-  (Cert: LF-lkeu0uvu46)
+- Certified Kubernetes Administrator - CNCF (Cert: LF-lkeu0uvu46)
 
-- Certified Kubernetes Application Developer - CNCF
-  (Cert LF-niibyfnluo)
+- Certified Kubernetes Application Developer - CNCF (Cert LF-niibyfnluo)
 
 - Python Certificate - HackerRank
   (Certificate: 7C606C12F468)

@@ -11,14 +11,14 @@
 ### Skills
 
 <p align='left'>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Kubernetes_logo.svg" alt="Kubernetes" width="40" height="40">
-  <img src='https://upload.wikimedia.org/wikipedia/commons/5/5c/AWS_Simple_Icons_AWS_Cloud.svg' alt="AWS" width="40" height="40">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Kubernetes_logo.svg" alt="Kubernetes" width="90" height="90">
+  <img src='https://upload.wikimedia.org/wikipedia/commons/5/5c/AWS_Simple_Icons_AWS_Cloud.svg' alt="AWS" width="60" height="60">
   <img src='https://upload.wikimedia.org/wikipedia/commons/0/04/Terraform_Logo.svg' height='30' width='auto' alt="Terraform">
    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Python_logo_01.svg" alt="Python" width="auto" height="40"/>
    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Ansible_Logo.png" alt="Ansible" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Elasticsearch_logo.svg" alt="Elasticsearch" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" alt="Jenkins" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/GitLab_logo.svg" alt="Gitlab" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Elasticsearch_logo.svg" alt="Elasticsearch" width="90" height="90"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" alt="Jenkins" width="70" height="70"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/GitLab_logo.svg" alt="Gitlab" width="80" height="80"/>
 </p>
 
 ---

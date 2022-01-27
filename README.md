@@ -11,7 +11,7 @@
 ### Skills
 
 <p align='left'>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Kubernetes_logo.svg" alt="Kubernetes" width="90" height="90">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Kubernetes_logo.svg" alt="Kubernetes" width="200" height="200">
   <img src='https://upload.wikimedia.org/wikipedia/commons/5/5c/AWS_Simple_Icons_AWS_Cloud.svg' alt="AWS" width="60" height="60">
   <img src='https://upload.wikimedia.org/wikipedia/commons/0/04/Terraform_Logo.svg' height='30' width='auto' alt="Terraform">
    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Python_logo_01.svg" alt="Python" width="auto" height="40"/>

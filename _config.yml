@@ -1,1 +1,13 @@
+title: Lovedeep Sharma # your name (or website title) here
+logo: "/profile.png?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+ DevOps Engineer
+  <br><br>
+  <a href="mailto:sharmalovedeep93@gmail.com">sharmalovedeep93@gmail.com </a>
+  <br>
+  <a href="https://www.linkedin.com/in/lovedeep-sharma-715ba5179/">LinkedIn Profile</a>
+  <br>
+  <a href="https://github.com/lovedeepsh">Gihub</a> 
+  <br>
+  <a href="https://bit.ly/35OrbGz">Stack Overflow</a>
 theme: jekyll-theme-minimal

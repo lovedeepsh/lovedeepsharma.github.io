@@ -55,6 +55,7 @@ groups, Network security groups, HA Proxy, Log Analytics etc.
 - Working with Python to automate daily repetitive tasks.
 
 **DevOps Engineer**
+
 **Opstree Solutions (India, Noida)**
 
 - Working with AWS services and utilities, Infrastructure development on AWS using various services like EC2, VPC, S3, Route 53, ECS, ELB, ALB, Auto-scaling etc.

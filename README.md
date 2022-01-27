@@ -25,7 +25,7 @@
 
 ### Experience
 
-**DevOps Engineer**
+**DevOps Engineer**,
 **Callsign Ltd (UAE, Abu Dhabi)**
 
 - Deployed applications and infrastructure for clients on AWS from scratch to handover.
@@ -39,7 +39,7 @@
 - Worked on SSL certificates, buying them on Digicert or ACM and setting them up for Domains.
 - Worked on cloudfront and route53 while creating multiple records and maintaining best practices
 
-**SRE**
+**SRE**,
 **Digital14 (UAE, Abu Dhabi)**
 
 - Working with a highly available CI/CD Prod/UAT/Dev environment using Ansible/Jenkins.
@@ -52,7 +52,7 @@ groups, Network security groups, HA Proxy, Log Analytics etc.
 - Defining SLI, SLO and SLA for the SOPs and maintaining them through the BMC Remedy tool.
 - Working with Python to automate daily repetitive tasks.
 
-**DevOps Engineer**
+**DevOps Engineer**,
 **Opstree Solutions (India, Noida)**
 
 - Working with AWS services and utilities, Infrastructure development on AWS using various services like EC2, VPC, S3, Route 53, ECS, ELB, ALB, Auto-scaling etc.

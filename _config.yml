@@ -5,9 +5,9 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <a href="Email: sharmalovedeep93@gmail.com"></a>
   <br>
-  <a href="LinkedIn Profile: https://www.linkedin.com/in/lovedeep-sharma-715ba5179/"></a>
+  <a href="https://www.linkedin.com/in/lovedeep-sharma-715ba5179/">LinkedIn</a>
   <br>
-  <a href="Gihub: https://github.com/lovedeepsh"></a> 
+  <a href="https://github.com/lovedeepsh">Gihub</a> 
   <br>
-  <a href="Stack Overflow: https://bit.ly/35OrbGz"></a>
+  <a href="https://bit.ly/35OrbGz">Stack Overflow</a>
 theme: jekyll-theme-minimal
